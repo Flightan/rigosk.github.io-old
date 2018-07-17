@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages 4
-
+<img class="avatar avatar-small" src="https://avatars3.githubusercontent.com/hubot?v=3&amp;s=40" alt="hubot" srcset="https://avatars3.githubusercontent.com/hubot?v=3&amp;s=40 1x, https://avatars3.githubusercontent.com/hubot?v=3&amp;s=80 2x, https://avatars3.githubusercontent.com/hubot?v=3&amp;s=120 3x, https://avatars3.githubusercontent.com/hubot?v=3&amp;s=160 4x" width="40" height="40" />
 You can use the [editor on GitHub](https://github.com/rigosk/rigosk.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
