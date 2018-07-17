@@ -1,3 +1,7 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
 ## Welcome to GitHub Pages
 <ul>
   {% for post in site.posts %}
