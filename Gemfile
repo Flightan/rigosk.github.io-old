@@ -9,7 +9,7 @@ gem 'rouge' # SyntaxHighlightFilter
 
 # ## General plugins
 gem 'jekyll-remote-theme'
-#gem 'jekyll-assets'
+gem 'jekyll-assets'
 gem 'jekyll-paginate'
 
 # ## Themes
