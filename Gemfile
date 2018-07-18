@@ -9,11 +9,22 @@ gem 'rouge' # SyntaxHighlightFilter
 
 # ## General plugins
 gem 'jekyll-remote-theme'
-gem 'jekyll-assets'
-gem 'jekyll-paginate'
+
 
 # ## Themes
 # NOTE When using a remote_theme, we do not need it as a gem
 #gem 'the-plain'
 #gem 'thinkspace'
 #gem 'tale'
+gem "autoprefixer-rails"
+gem "html-proofer"
+gem "image_optim"
+gem "jekyll"
+gem "jekyll-assets"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jemoji"
+gem "mini_magick"
+gem "sass"
+gem "sprockets"
+gem "uglifier
