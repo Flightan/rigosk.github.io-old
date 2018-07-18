@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-theme: chalk
+#theme: chalk
 remote_theme: nielsenramon/chalk
 defaults:
   -
