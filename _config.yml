@@ -41,13 +41,13 @@ nav_show_author: false
 #remote_theme: hoijui/the-plain
 #remote_theme: heiswayi/the-plain
 #remote_theme: heiswayi/thinkspace
-#remote_theme: nielsenramon/chalk
+remote_theme: nielsenramon/chalk
 #remote_theme: LeNPaul/Lagrange # might also be available directly as (non-remote) "theme: 'lagrange'"
 #remote_theme: sharu725/hagura # might also be available directly as (non-remote) "theme: 'hagura'"
 #remote_theme: pages-themes/hacker # is also be available directly as (non-remote) "theme: 'hacker'"
 #remote_theme: pages-themes/cayman # is also be available directly as (non-remote) "theme: 'cayman'"
 #remote_theme: chesterhow/tale  # might also be available directly as (non-remote) "theme: 'tale'"
-remote_theme: hoijui/tale  # see https://github.com/hoijui/tale/
+#remote_theme: hoijui/tale  # see https://github.com/hoijui/tale/
 #remote_theme: alshedivat/al-folio
 #remote_theme: mmistakes/hpstr-jekyll-theme  # might also be available directly as (non-remote) "theme: 'hpstr'"
 #remote_theme: jekyller/jasper2  # might also be available directly as (non-remote) "theme: 'jasper2'"
