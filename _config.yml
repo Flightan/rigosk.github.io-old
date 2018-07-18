@@ -41,9 +41,9 @@ nav_show_author: false
 # jekyll themes (fetched directly from github repos)
 # NOTE: the only ones working as remote theme seem to be: the-plain, thinkspace, hpstr
 #remote_theme: hoijui/the-plain
-remote_theme: heiswayi/the-plain
+#remote_theme: heiswayi/the-plain
 #remote_theme: heiswayi/thinkspace
-#remote_theme: nielsenramon/chalk
+remote_theme: nielsenramon/chalk
 #remote_theme: benbalter/retlab
 #remote_theme: LeNPaul/Lagrange # might also be available directly as (non-remote) "theme: 'lagrange'"
 #remote_theme: sharu725/hagura # might also be available directly as (non-remote) "theme: 'hagura'"
