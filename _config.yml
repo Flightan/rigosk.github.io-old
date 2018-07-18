@@ -46,7 +46,8 @@ nav_show_author: false
 #remote_theme: hoijui/the-plain
 #remote_theme: heiswayi/the-plain
 #remote_theme: heiswayi/thinkspace
-remote_theme: nielsenramon/chalk
+#remote_theme: nielsenramon/chalk
+remote_theme: benbalter/retlab
 #remote_theme: LeNPaul/Lagrange # might also be available directly as (non-remote) "theme: 'lagrange'"
 #remote_theme: sharu725/hagura # might also be available directly as (non-remote) "theme: 'hagura'"
 #remote_theme: pages-themes/hacker # is also be available directly as (non-remote) "theme: 'hacker'"
