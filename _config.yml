@@ -76,7 +76,7 @@ defaults:
       author_email: konstantinos.rigos@gmail.com
       
 ######################################################################################################3333      
-###theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 #theme: chalk
 #remote_theme: nielsenramon/chalk
 #defaults:
