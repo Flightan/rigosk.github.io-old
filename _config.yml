@@ -68,8 +68,8 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Robin Vobruba"
-      author_email: hoijui.quaero@gmail.com
+      author: "Konstantinos Rigos"
+      author_email: konstantinos.rigos@gmail.com
       
 ######################################################################################################3333      
 ###theme: jekyll-theme-cayman
